@@ -1,0 +1,66 @@
+html {
+    background: url(pics/0.jpg) no-repeat center fixed; 
+    background-size: cover;
+}
+
+h1{font-family: constantia;
+font-style: italic;
+color: rgb(255,0,255);
+font-weight: bold;
+font-size: 65px;
+background-color: black;
+text-align: center;
+border-style: solid;
+border-color: rgb(255,0,255);
+border-width: 10px 5px;
+padding: 10px;
+}
+.regText{font-family: constantia;
+font-style: italic;
+color: rgb(255,0,255);
+font-weight: bold;
+text-align: center;
+}
+
+.LALogo{
+	text-align: center;
+}
+
+ul {
+    list-style-image: url(pics/ugh.jpeg);
+border-style: solid;
+border-color: goldenrod;
+background-color: white;
+}
+
+li {
+    float: left;
+    width: 25%;
+}
+
+
+li a {
+    display: block;
+    color: rgb(255,0,255);
+    text-align: center;
+    padding: 10px 6px;
+    text-decoration: none;
+
+}
+
+.footer{ color: rgb(255,0,255);
+font-style: italic;
+font-family: constantia;
+font-weight: bold;
+padding-top: 75px;
+text-align: center;
+ }
+
+ .IG {text-align: center;
+ 	font-size: 50px}
+	
+
+
+</style>
+</head>
+<body>
